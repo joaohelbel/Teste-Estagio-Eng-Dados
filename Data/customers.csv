@@ -1,0 +1,221 @@
+customer_id,signup_date,segment,city,state
+1,2025-04-17,Pessoa Física,Jundiaí,SP
+2,2024-05-30,Profissional Saúde,Curitiba,PR
+3,2025-02-18,Pessoa Física,Brasília,DF
+4,2024-10-24,Empresa,São Paulo,SP
+5,2024-09-19,Pessoa Física,Curitiba,PR
+6,2024-05-23,Pessoa Física,Brasília,DF
+7,2024-12-11,Empresa,Londrina,PR
+8,2025-07-25,Estudante,Campinas,SP
+9,2024-01-02,Empresa,Joinville,SC
+10,2024-10-30,Profissional Saúde,Londrina,PR
+11,2024-09-10,Pessoa Física,Niterói,RJ
+12,2025-03-28,Pessoa Física,Joinville,SC
+13,2024-02-06,Estudante,Santos,SP
+14,2024-06-08,Pessoa Física,Salvador,BA
+15,2024-01-09,Estudante,Florianópolis,SC
+16,2024-08-20,Pessoa Física,Campinas,SP
+17,2024-04-08,Estudante,Rio de Janeiro,RJ
+18,2024-07-26,Pessoa Física,Feira de Santana,BA
+19,2024-05-10,Empresa,Florianópolis,SC
+20,2025-02-07,Estudante,Florianópolis,SC
+21,2024-05-31,Estudante,Duque de Caxias,RJ
+22,2024-02-23,Profissional Saúde,Brasília,DF
+23,2024-04-29,Profissional Saúde,Olinda,PE
+24,2025-02-23,Estudante,Brasília,DF
+25,2025-02-25,Estudante,Campinas,SP
+26,2024-04-13,Pessoa Física,Joinville,SC
+27,2024-09-10,Estudante,Rio de Janeiro,RJ
+28,2024-08-14,Estudante,Londrina,PR
+29,2024-04-21,Empresa,Recife,PE
+30,2025-05-24,Estudante,Belo Horizonte,MG
+31,2025-04-17,Estudante,Feira de Santana,BA
+32,2024-04-08,Estudante,Curitiba,PR
+33,2024-06-01,Empresa,Rio de Janeiro,RJ
+34,2024-12-03,Pessoa Física,Uberlândia,MG
+35,2024-06-11,Profissional Saúde,Salvador,BA
+36,2024-06-09,Empresa,Feira de Santana,BA
+37,2025-02-01,Estudante,Brasília,DF
+38,2024-10-03,Pessoa Física,Brasília,DF
+39,2025-05-18,Estudante,Niterói,RJ
+40,2025-01-26,Empresa,Contagem,MG
+41,2024-05-14,Pessoa Física,Porto Alegre,RS
+42,2024-07-13,Pessoa Física,Porto Alegre,RS
+43,2025-02-04,Profissional Saúde,Florianópolis,SC
+44,2024-02-02,Pessoa Física,Joinville,SC
+45,2025-04-04,Pessoa Física,Niterói,RJ
+46,2025-04-14,Estudante,Curitiba,PR
+47,2025-01-09,Profissional Saúde,Rio de Janeiro,RJ
+48,2024-01-22,Empresa,Duque de Caxias,RJ
+49,2024-02-07,Profissional Saúde,Uberlândia,MG
+50,2024-08-17,Empresa,Brasília,DF
+51,2024-12-30,Estudante,Brasília,DF
+52,2025-07-16,Profissional Saúde,Brasília,DF
+53,2025-03-13,Estudante,Feira de Santana,BA
+54,2024-10-09,Empresa,Brasília,DF
+55,2024-01-27,Pessoa Física,Curitiba,PR
+56,2024-08-13,Pessoa Física,Florianópolis,SC
+57,2024-10-03,Profissional Saúde,Curitiba,PR
+58,2024-10-10,Pessoa Física,Campinas,SP
+59,2025-04-25,Pessoa Física,Jundiaí,SP
+60,2025-03-28,Pessoa Física,Brasília,DF
+61,2025-05-30,Estudante,Recife,PE
+62,2025-06-30,Profissional Saúde,Recife,PE
+63,2024-07-10,Empresa,Salvador,BA
+64,2024-02-18,Pessoa Física,Duque de Caxias,RJ
+65,2025-05-26,Empresa,Joinville,SC
+66,2024-01-17,Empresa,Recife,PE
+67,2024-06-20,Pessoa Física,Santos,SP
+68,2024-08-07,Estudante,Rio de Janeiro,RJ
+69,2024-06-06,Profissional Saúde,Londrina,PR
+70,2025-04-21,Profissional Saúde,Salvador,BA
+71,2024-02-15,Estudante,Recife,PE
+72,2025-01-07,Pessoa Física,Recife,PE
+73,2025-06-01,Pessoa Física,Brasília,DF
+74,2024-04-08,Pessoa Física,Curitiba,PR
+75,2024-02-06,Empresa,Olinda,PE
+76,2024-10-06,Profissional Saúde,Salvador,BA
+77,2024-12-14,Profissional Saúde,Salvador,BA
+78,2025-05-11,Empresa,Caxias do Sul,RS
+79,2024-10-28,Estudante,Feira de Santana,BA
+80,2024-06-29,Profissional Saúde,Londrina,PR
+81,2024-04-08,Profissional Saúde,Sorocaba,SP
+82,2024-04-25,Pessoa Física,Florianópolis,SC
+83,2024-07-09,Pessoa Física,Recife,PE
+84,2024-09-09,Pessoa Física,Brasília,DF
+85,2024-06-09,Profissional Saúde,Duque de Caxias,RJ
+86,2024-09-12,Pessoa Física,Londrina,PR
+87,2024-11-18,Pessoa Física,Curitiba,PR
+88,2024-05-07,Pessoa Física,Feira de Santana,BA
+89,2024-01-18,Estudante,Londrina,PR
+90,2025-07-19,Profissional Saúde,Caxias do Sul,RS
+91,2025-07-23,Profissional Saúde,Caxias do Sul,RS
+92,2024-11-18,Estudante,Rio de Janeiro,RJ
+93,2024-10-14,Empresa,Rio de Janeiro,RJ
+94,2024-06-03,Profissional Saúde,Brasília,DF
+95,2025-05-04,Profissional Saúde,Florianópolis,SC
+96,2025-01-20,Profissional Saúde,Joinville,SC
+97,2024-04-13,Profissional Saúde,Olinda,PE
+98,2025-01-27,Pessoa Física,Brasília,DF
+99,2024-09-02,Pessoa Física,Contagem,MG
+100,2024-06-24,Pessoa Física,Duque de Caxias,RJ
+101,2024-02-08,Profissional Saúde,Caxias do Sul,RS
+102,2025-04-21,Profissional Saúde,Florianópolis,SC
+103,2025-06-21,Estudante,Brasília,DF
+104,2025-02-11,Estudante,São Paulo,SP
+105,2025-06-08,Empresa,Porto Alegre,RS
+106,2025-05-20,Pessoa Física,Florianópolis,SC
+107,2024-02-05,Estudante,Uberlândia,MG
+108,2024-01-20,Empresa,Brasília,DF
+109,2024-11-16,Pessoa Física,Rio de Janeiro,RJ
+110,2025-05-26,Profissional Saúde,Brasília,DF
+111,2025-02-03,Estudante,Brasília,DF
+112,2025-04-15,Empresa,Belo Horizonte,MG
+113,2024-05-22,Estudante,Florianópolis,SC
+114,2024-04-01,Estudante,Curitiba,PR
+115,2024-12-19,Pessoa Física,Joinville,SC
+116,2024-02-20,Profissional Saúde,Curitiba,PR
+117,2025-07-28,Profissional Saúde,Salvador,BA
+118,2024-07-08,Profissional Saúde,Joinville,SC
+119,2024-05-04,Profissional Saúde,Porto Alegre,RS
+120,2024-05-29,Pessoa Física,Salvador,BA
+121,2024-11-09,Empresa,Curitiba,PR
+122,2025-07-23,Empresa,Joinville,SC
+123,2024-12-07,Profissional Saúde,Curitiba,PR
+124,2024-10-31,Profissional Saúde,Feira de Santana,BA
+125,2024-02-23,Estudante,Niterói,RJ
+126,2025-03-19,Estudante,Brasília,DF
+127,2024-09-20,Estudante,São Paulo,SP
+128,2024-02-22,Estudante,Uberlândia,MG
+129,2025-07-25,Estudante,São Paulo,SP
+130,2024-01-05,Empresa,Joinville,SC
+131,2024-04-12,Empresa,Brasília,DF
+132,2024-07-14,Empresa,Londrina,PR
+133,2024-12-15,Pessoa Física,Salvador,BA
+134,2024-02-16,Profissional Saúde,Joinville,SC
+135,2024-09-25,Pessoa Física,Joinville,SC
+136,2025-01-04,Pessoa Física,Caxias do Sul,RS
+137,2024-04-15,Empresa,Joinville,SC
+138,2024-04-29,Estudante,Brasília,DF
+139,2024-02-27,Profissional Saúde,Feira de Santana,BA
+140,2024-12-11,Profissional Saúde,Caxias do Sul,RS
+141,2025-04-18,Pessoa Física,Caxias do Sul,RS
+142,2024-04-26,Profissional Saúde,Feira de Santana,BA
+143,2024-05-06,Empresa,Olinda,PE
+144,2025-01-27,Profissional Saúde,Brasília,DF
+145,2024-02-27,Profissional Saúde,Niterói,RJ
+146,2025-05-27,Estudante,Rio de Janeiro,RJ
+147,2024-04-05,Estudante,Curitiba,PR
+148,2024-04-27,Profissional Saúde,São Paulo,SP
+149,2025-07-13,Profissional Saúde,Recife,PE
+150,2025-05-02,Empresa,Salvador,BA
+151,2024-08-24,Empresa,Olinda,PE
+152,2024-09-28,Profissional Saúde,Uberlândia,MG
+153,2024-07-07,Pessoa Física,Niterói,RJ
+154,2025-03-22,Profissional Saúde,Uberlândia,MG
+155,2024-09-03,Empresa,Sorocaba,SP
+156,2024-03-16,Profissional Saúde,Niterói,RJ
+157,2024-06-02,Profissional Saúde,Olinda,PE
+158,2025-03-10,Empresa,Brasília,DF
+159,2024-03-26,Empresa,Uberlândia,MG
+160,2024-10-11,Empresa,Olinda,PE
+161,2024-08-07,Profissional Saúde,Caxias do Sul,RS
+162,2024-03-09,Profissional Saúde,Caxias do Sul,RS
+163,2024-02-16,Pessoa Física,Porto Alegre,RS
+164,2024-04-03,Estudante,Joinville,SC
+165,2025-03-28,Pessoa Física,Belo Horizonte,MG
+166,2024-07-22,Profissional Saúde,Salvador,BA
+167,2024-08-05,Profissional Saúde,Niterói,RJ
+168,2025-04-18,Empresa,Joinville,SC
+169,2025-03-07,Empresa,Campinas,SP
+170,2024-12-06,Empresa,Salvador,BA
+171,2025-07-04,Empresa,Recife,PE
+172,2024-10-15,Estudante,Caxias do Sul,RS
+173,2024-09-10,Empresa,Brasília,DF
+174,2024-12-22,Empresa,Londrina,PR
+175,2024-01-23,Empresa,Recife,PE
+176,2025-06-05,Empresa,Joinville,SC
+177,2024-04-09,Profissional Saúde,Recife,PE
+178,2024-06-28,Pessoa Física,Salvador,BA
+179,2024-08-10,Pessoa Física,Salvador,BA
+180,2025-03-17,Empresa,Belo Horizonte,MG
+181,2024-11-20,Estudante,Feira de Santana,BA
+182,2025-05-30,Profissional Saúde,Olinda,PE
+183,2024-01-16,Estudante,Feira de Santana,BA
+184,2024-12-01,Empresa,Porto Alegre,RS
+185,2024-09-14,Empresa,Sorocaba,SP
+186,2025-05-11,Pessoa Física,Florianópolis,SC
+187,2024-06-08,Pessoa Física,São Paulo,SP
+188,2025-04-19,Profissional Saúde,Curitiba,PR
+189,2025-01-14,Profissional Saúde,Curitiba,PR
+190,2025-06-28,Empresa,Duque de Caxias,RJ
+191,2025-03-02,Profissional Saúde,Olinda,PE
+192,2024-09-24,Estudante,Uberlândia,MG
+193,2025-07-30,Pessoa Física,Contagem,MG
+194,2025-02-20,Pessoa Física,Jundiaí,SP
+195,2024-06-16,Empresa,Salvador,BA
+196,2024-02-12,Pessoa Física,Curitiba,PR
+197,2025-07-09,Estudante,Duque de Caxias,RJ
+198,2024-10-11,Pessoa Física,Joinville,SC
+199,2025-01-31,Estudante,Duque de Caxias,RJ
+200,2024-01-12,Estudante,Santos,SP
+201,2024-10-28,Empresa,Niterói,RJ
+202,2024-09-09,Estudante,Recife,PE
+203,2025-05-13,Empresa,Uberlândia,MG
+204,2024-02-04,Estudante,Brasília,DF
+205,2024-03-30,Empresa,Feira de Santana,BA
+206,2025-02-21,Estudante,Curitiba,PR
+207,2024-04-24,Estudante,Recife,PE
+208,2024-07-14,Empresa,Feira de Santana,BA
+209,2025-05-15,Pessoa Física,Olinda,PE
+210,2025-05-07,Profissional Saúde,Recife,PE
+211,2024-03-15,Estudante,Caxias do Sul,RS
+212,2025-02-16,Estudante,Porto Alegre,RS
+213,2025-01-10,Profissional Saúde,Rio de Janeiro,RJ
+214,2025-02-23,Empresa,Recife,PE
+215,2024-10-03,Empresa,Olinda,PE
+216,2025-01-28,Pessoa Física,Niterói,RJ
+217,2025-04-01,Profissional Saúde,Salvador,BA
+218,2024-07-10,Estudante,Joinville,SC
+219,2024-04-08,Estudante,Feira de Santana,BA
+220,2025-07-01,Estudante,Olinda,PE

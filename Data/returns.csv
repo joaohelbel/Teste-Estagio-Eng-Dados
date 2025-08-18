@@ -1,0 +1,21 @@
+order_id,return_date,reason
+8,2025-06-26,Atraso
+18,2025-05-21,Arrependimento
+21,2025-05-04,Dano no Transporte
+37,2025-06-02,Defeito
+50,2024-09-10,Dano no Transporte
+68,2024-08-13,Atraso
+85,2024-11-25,Dano no Transporte
+99,2025-01-06,Dano no Transporte
+113,2024-01-08,Atraso
+117,2024-12-30,Arrependimento
+134,2025-04-08,Atraso
+170,2024-03-14,Defeito
+186,2025-08-12,Dano no Transporte
+187,2025-06-04,Atraso
+213,2024-01-10,Dano no Transporte
+220,2024-10-25,Arrependimento
+223,2024-04-10,Defeito
+232,2025-04-26,Defeito
+297,2025-06-08,Atraso
+317,2024-09-20,Defeito
