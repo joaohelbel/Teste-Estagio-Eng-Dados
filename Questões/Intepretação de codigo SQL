@@ -1,0 +1,17 @@
+O que cada CTE faz
+
+ base: monta o detalhe de venda por item do pedido (order_id + product_id), já filtrando só completed e calculando revenue = qty * unit_price.
+ 
+ monthly: agrega a base por mês e canal, somando a receita do mês (gm).
+
+ lagged: pega o gm do mês anterior por canal usando LAG.
+
+ Resultado final: para cada mês e canal, mostra a receita do mês e a variação % vs mês anterior.
+
+Perguntas
+
+ 1- Grão em base: item de pedido (order_id + product_id).
+
+ 2- Por que NULLIF: pra evitar divisão por zero quando o mês anterior for 0.
+
+ 3- Se não teve venda no mês anterior: gm_prev fica NULL e a variação retorna NULL (não força valor errado).

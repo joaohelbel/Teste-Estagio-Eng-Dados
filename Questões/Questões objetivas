@@ -1,0 +1,19 @@
+1) B. Definir o grão pela menor granularidade disponível evita ambiguidades depois.
+
+2) B. Surrogate key protege de chave natural que muda (ou vem suja).
+
+3) B. SCD2 cria uma nova linha e mantém histórico.
+
+4) B. Ticket médio = Receita / Pedidos completos.
+
+5) C. pending/cancelled geralmente ficam fora dos KPIs principais de venda.
+
+6) C. Staging é pra padronizar/limpar antes do modelo.
+
+7) B. Linha de tempo com % devolução mostra bem picos por categoria.
+
+8) A. Conciliação serve pra achar diferenças entre cobrado e receita do pedido.
+
+9) B. LAG() compara com linhas anteriores (ex.: mês anterior).
+
+10) A. qty > 0

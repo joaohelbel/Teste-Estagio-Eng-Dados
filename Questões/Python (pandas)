@@ -1,0 +1,8 @@
+O que faz: junta itens com pedidos, filtra completed, calcula receita por linha e 
+soma por mês do pedido pra gerar uma série mensal (gm).
+No fim, troca o período por timestamp pra plotar.
+
+Risco de qualidade que eu vejo: se existir linha duplicada em order_items 
+(ou um join que repete linhas), a receita fica inflada. E ele ignora 
+devoluções: se houve return daquele pedido, esse gm continua alto, o 
+que pode distorcer os KPIs.
